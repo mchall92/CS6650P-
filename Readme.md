@@ -5,13 +5,13 @@
 Client requires a command line as follows:
 <br>
 <br>
-<hostname/IP> <port> <TCP/UDP>
+<hostname/IP> </port/> <TCP/UDP>
 <br>
 <br>
 <hostname/IP> : hostname or IP Address
 <br>
 <br>
-<port> : port number
+</port/> : port number
 <br>
 <br>
 <TCP/UDP> : TCP or UDP (case insensitive)\
