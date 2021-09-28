@@ -26,7 +26,7 @@ Users will be continuously asked to enter custom operation until user enters "cl
 Operation for Key-Value should follow this format, otherwise, a warning message will pop up to inform the instructions:
 <br>
 <br>
-<PUT/GET/DELETE> </KEY > </VALUE >
+<PUT/GET/DELETE> </KEY/> </VALUE/>
 <br>
 <br>
 <PUT/GET/DELETE> : Enter any one of  PUT, GET or DELETE (case-insensitive)
@@ -35,7 +35,7 @@ Operation for Key-Value should follow this format, otherwise, a warning message 
 </KEY/> : Key for Key-Value pair
 <br>
 <br>
-</VALUE> : Value for Key-Value pair. Only enter this if operation is to PUT.
+</VALUE/> : Value for Key-Value pair. Only enter this if operation is to PUT.
 <br>
 <br>
 <br>
