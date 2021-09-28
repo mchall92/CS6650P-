@@ -1,13 +1,13 @@
 ### Instructions
 
 ## Client
-## ---------------------------------------------------------------------------------------------------------
-Client requires a command line as follows:
-<hostname/IP> <port> <TCP/UDP>
-<hostname/IP> : hostname or IP Address
-<port> : port number
-<TCP/UDP> : TCP or UDP (case insensitive)
-
+## --------------------------------------------------------------------------------------------------
+Client requires a command line as follows:\
+<hostname/IP> <port> <TCP/UDP>\
+<hostname/IP> : hostname or IP Address\
+<port> : port number\
+<TCP/UDP> : TCP or UDP (case insensitive)\
+<br>
 After running ClientApp, hard-coded operations will be run and logged.
 Users will be continuously asked to enter custom operation until user enters "close".
 Operation for Key-Value should follow this format, otherwise, a warning message will pop up to inform the instructions:
