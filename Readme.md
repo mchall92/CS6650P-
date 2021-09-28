@@ -32,10 +32,10 @@ Operation for Key-Value should follow this format, otherwise, a warning message 
 <PUT/GET/DELETE> : Enter any one of  PUT, GET or DELETE (case-insensitive)
 <br>
 <br>
-</KEY > : Key for Key-Value pair
+</KEY/> : Key for Key-Value pair
 <br>
 <br>
-</VALUE > : Value for Key-Value pair. Only enter this if operation is to PUT.
+</VALUE> : Value for Key-Value pair. Only enter this if operation is to PUT.
 <br>
 <br>
 <br>
