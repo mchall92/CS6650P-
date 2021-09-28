@@ -44,7 +44,7 @@ Operation for Key-Value should follow this format, otherwise, a warning message 
 Server requires a command line as follows:
 <br>
   <br>
-<TCP port/> <UDP port/>
+</TCP port> <UDP port/>
 <br>
   <br>
 <TCP port/> : port number TCP
